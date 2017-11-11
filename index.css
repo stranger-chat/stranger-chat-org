@@ -1,0 +1,13 @@
+
+body {
+ background-image: url(img/random_grey_variations.png);
+}
+div.container, h1 {
+ font-family: 'Nunito', sans-serif;
+}
+li {
+  list-style: none inside;
+}
+.social-bar img {
+  height: 22px;
+}
